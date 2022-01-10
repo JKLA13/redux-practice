@@ -1,6 +1,6 @@
 # Redux-Practice
 
-This project was a code along for practice in learning Redux using React.
+This project was a code along for practice in learning Redux using React, 3rd party API fetch, and Redux-Thunk.
 
 ## Available Scripts
 
